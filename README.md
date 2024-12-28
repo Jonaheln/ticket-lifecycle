@@ -38,18 +38,16 @@ entire mobile/online banking system is down
 
 ![image](https://github.com/user-attachments/assets/4a25b2af-4e3a-43db-89b3-ad8f4e2a7048)
 
-- As a Help Desk Agent (john), observe the ticket’s properties
-	Priority
-	Department
-	SLA
-	Assigned To
+- As an end-user, create the following ticket
+accounting department needs adobe upgrade, broken
 
-![image](https://github.com/user-attachments/assets/c4f92c7c-8748-4039-95d8-514b4c8c0ea6)
+![image](https://github.com/user-attachments/assets/fd90c413-1c5c-4c49-ae3c-b933d28f2790)
 
-- Set Properties to the ticket
-Sev-B (4 hours, 24/7)
-Support, work the ticket to completion as john
+- As an end-user, create the following ticket
+CFO’s laptop will no longer turn on
 
-![image](https://github.com/user-attachments/assets/be8746b1-878c-4ebc-b3cf-0bd7276e9bf3)
+![image](https://github.com/user-attachments/assets/0e3d61c7-7f4b-4bed-ac00-6fe558184e66)
 
+- Work the ticket to completion
 
+![image](https://github.com/user-attachments/assets/7409e828-fcb2-4ba9-8e41-e20b1edeccba)
