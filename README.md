@@ -29,25 +29,37 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-- Change the SysAdmins Department to a Top Level Department
 
 ![image](https://github.com/user-attachments/assets/201f5005-303e-437f-a0d0-cdb1af7ae301)
 
-- As an end-user, create the following ticket
-entire mobile/online banking system is down
+
+- Change the SysAdmins Department to a Top Level Department
+
+
 
 ![image](https://github.com/user-attachments/assets/4a25b2af-4e3a-43db-89b3-ad8f4e2a7048)
 
 - As an end-user, create the following ticket
-accounting department needs adobe upgrade, broken
+entire mobile/online banking system is down
+
+
 
 ![image](https://github.com/user-attachments/assets/fd90c413-1c5c-4c49-ae3c-b933d28f2790)
+
+
+- As an end-user, create the following ticket
+accounting department needs adobe upgrade, broken
+
+
+![image](https://github.com/user-attachments/assets/0e3d61c7-7f4b-4bed-ac00-6fe558184e66)
+
+
 
 - As an end-user, create the following ticket
 CFO’s laptop will no longer turn on
 
-![image](https://github.com/user-attachments/assets/0e3d61c7-7f4b-4bed-ac00-6fe558184e66)
 
-- Work the ticket to completion
 
 ![image](https://github.com/user-attachments/assets/7409e828-fcb2-4ba9-8e41-e20b1edeccba)
+
+- Work the ticket to completion
